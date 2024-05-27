@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "transporthttp.h": "c",
+        "common.h": "c"
+    }
+}
